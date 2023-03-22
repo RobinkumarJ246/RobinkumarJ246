@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Robinkumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinkumarj246&label=Profile%20views&color=0e75b6&style=plastic" alt="robinkumarj246" /> </p>
 
+- 🧑‍🎓 I'm a **student**
+
 - 🌱 I’m currently learning **ML,DL,React,Flask,Flutter,Dart**
 
 - 💬 Ask me about **HTML,CSS,JS,PHP,Python**
