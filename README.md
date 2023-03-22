@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **HTML,CSS,JS,PHP,Python**
 
-- 📫 How to reach me **robin246j@gmail.com**
+- 📫 Reach me at **robin246j@gmail.com**
 
 <p align="left">
 </p>
