@@ -2,7 +2,7 @@
 
 - 🧑‍🎓 I'm a **student**
 
-- 🌱 I’m currently learning **ML,DL,React,Flask,Flutter,Dart**
+- 🌱 I’m currently learning **ML,DL,React,Flask,Flutter**
 
 - 💬 Ask me about **HTML,CSS,JS,PHP,Python**
 
