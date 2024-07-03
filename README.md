@@ -2,9 +2,9 @@
 
 - 🧑‍🎓 I'm a **student**
 
-- 🌱 I’m currently passionate about and learning **ML, DL, Large Language Models, App development with Flutter and ReactNative**
+- 🌱 I’m currently passionate about and learning **Generative AI, App development with Flutter and ReactNative**
 
-- 💬 Ask me about **ReactJS, MERN STACK, PHP, Python**
+- 💬 Ask me about **ReactJS, NextJS, MongoDB, NodeJS, Large Language Models, Python**
 
 - 📫 Reach me at **robin246j@gmail.com**
 
