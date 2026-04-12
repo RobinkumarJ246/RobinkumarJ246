@@ -16,4 +16,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinkumarj246&label=Profile%20views&color=0e75b6&style=plastic" alt="robinkumarj246" /> </p>
 
-[![RobinkumarJ246's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinkumarJ246)](https://github.com/anuraghazra/github-readme-stats)
+[![RobinkumarJ246's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinkumarJ246)](https://github.com/RobinkumarJ246/github-readme-stats)
