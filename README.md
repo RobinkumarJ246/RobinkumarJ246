@@ -71,6 +71,8 @@ developer:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=robinkumarj246&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RobinkumarJ246&layout=donut&hide_title=true&langs_count=5&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=RobinkumarJ246&layout=donut&hide_title=true&langs_count=5&hide_values=true&theme=dark)
+
 <details>
 <summary align="center"><b>🏆 GitHub Trophies</b></summary>
 <div align="center">
