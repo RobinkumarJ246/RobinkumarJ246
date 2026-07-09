@@ -80,17 +80,6 @@ developer:
 
 ---
 
-### 🔥 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robinkumarj246/robinkumarj246/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/robinkumarj246/robinkumarj246/output/github-contribution-grid-snake.svg">
-</picture>
-
-> 💡 *Set up via the [Platane/snk](https://github.com/Platane/snk) GitHub Action to auto-generate this animation from your contribution graph.*
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
