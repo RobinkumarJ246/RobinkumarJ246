@@ -54,6 +54,8 @@ developer:
   <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
 </p>
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RobinkumarJ246&layout=donut&hide_title=true&langs_count=5&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=RobinkumarJ246&layout=donut&hide_title=true&langs_count=5&hide_values=true&theme=dark)
+
 ---
 
 ### 📊 GitHub Stats
